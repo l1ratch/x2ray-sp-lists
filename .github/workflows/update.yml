@@ -1,3 +1,21 @@
+name: update-v2raya-rules
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
 - name: Download upstream files
   run: |
     BASE_URL="https://raw.githubusercontent.com/v2rayA/dist-v2ray-rules-dat/master"
@@ -29,3 +47,36 @@
 
       wget -q -O "$file" "$BASE_URL/$file" || echo "Skip $file"
     done
+
+      - name: Merge custom domains into gfw.txt
+        run: |
+          set -e
+
+          if [ -f for-gfw.txt ]; then
+            cat for-gfw.txt >> gfw.txt
+          fi
+
+          sort -u gfw.txt -o gfw.txt
+
+      - name: Merge custom domains into proxy-list.txt
+        run: |
+          set -e
+
+          if [ -f for-gfw.txt ]; then
+            cat for-gfw.txt >> proxy-list.txt
+          fi
+
+          sort -u proxy-list.txt -o proxy-list.txt
+
+      - name: Commit changes
+        run: |
+          set -e
+
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add .
+
+          git commit -m "Update v2rayA rules" || echo "No changes"
+
+          git push
