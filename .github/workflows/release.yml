@@ -1,4 +1,21 @@
 name: release
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 3"
+
+env:
+  TARGET: Loyalsoldier/v2ray-rules-dat
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout current repo
         uses: actions/checkout@v4
