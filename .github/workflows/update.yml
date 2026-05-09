@@ -16,67 +16,55 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-- name: Download upstream files
-  run: |
-    BASE_URL="https://raw.githubusercontent.com/v2rayA/dist-v2ray-rules-dat/master"
+      - name: Download upstream files
+        run: |
+          BASE_URL="https://raw.githubusercontent.com/v2rayA/dist-v2ray-rules-dat/master"
 
-    FILES="
-    apple-cn.txt
-    china-list.txt
-    direct-list.txt
-    direct-tld-list.txt
-    geoip.dat
-    geoip.dat.sha256sum
-    geosite.dat
-    geosite.dat.sha256sum
-    gfw.txt
-    google-cn.txt
-    greatfire.txt
-    proxy-list.txt
-    proxy-tld-list.txt
-    reject-list.txt
-    rules.zip
-    rules.zip.sha256sum
-    win-extra.txt
-    win-spy.txt
-    win-update.txt
-    "
+          FILES="
+          apple-cn.txt
+          china-list.txt
+          direct-list.txt
+          direct-tld-list.txt
+          geoip.dat
+          geoip.dat.sha256sum
+          geosite.dat
+          geosite.dat.sha256sum
+          gfw.txt
+          google-cn.txt
+          greatfire.txt
+          proxy-list.txt
+          proxy-tld-list.txt
+          reject-list.txt
+          rules.zip
+          rules.zip.sha256sum
+          win-extra.txt
+          win-spy.txt
+          win-update.txt
+          "
 
-    for file in $FILES; do
-      echo "Downloading $file"
-
-      wget -q -O "$file" "$BASE_URL/$file" || echo "Skip $file"
-    done
+          for file in $FILES; do
+            echo "Downloading $file"
+            wget -q -O "$file" "$BASE_URL/$file" || echo "Skip $file"
+          done
 
       - name: Merge custom domains into gfw.txt
         run: |
-          set -e
-
           if [ -f for-gfw.txt ]; then
             cat for-gfw.txt >> gfw.txt
           fi
-
           sort -u gfw.txt -o gfw.txt
 
       - name: Merge custom domains into proxy-list.txt
         run: |
-          set -e
-
           if [ -f for-gfw.txt ]; then
             cat for-gfw.txt >> proxy-list.txt
           fi
-
           sort -u proxy-list.txt -o proxy-list.txt
 
       - name: Commit changes
         run: |
-          set -e
-
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
           git add .
-
           git commit -m "Update v2rayA rules" || echo "No changes"
-
           git push
