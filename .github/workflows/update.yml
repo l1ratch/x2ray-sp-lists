@@ -1,4 +1,4 @@
-name: update-v2raya-rules
+name: update-v2raya-rules-with-geosite
 
 on:
   workflow_dispatch:
@@ -16,8 +16,20 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Cleanup old files
+        run: |
+          set -e
+          find . -maxdepth 1 \
+            ! -name '.' \
+            ! -name '.git' \
+            ! -name '.github' \
+            ! -name 'README.md' \
+            ! -name 'for-gfw.txt' \
+            -exec rm -rf {} +
+
       - name: Download upstream files
         run: |
+          set -e
           BASE_URL="https://raw.githubusercontent.com/v2rayA/dist-v2ray-rules-dat/master"
 
           FILES="
@@ -49,6 +61,7 @@ jobs:
 
       - name: Merge custom domains into gfw.txt
         run: |
+          set -e
           if [ -f for-gfw.txt ]; then
             cat for-gfw.txt >> gfw.txt
           fi
@@ -56,15 +69,27 @@ jobs:
 
       - name: Merge custom domains into proxy-list.txt
         run: |
+          set -e
           if [ -f for-gfw.txt ]; then
             cat for-gfw.txt >> proxy-list.txt
           fi
           sort -u proxy-list.txt -o proxy-list.txt
+
+      - name: Rebuild geosite.dat
+        run: |
+          set -e
+          if command -v v2ctl >/dev/null 2>&1; then
+            echo "Building geosite.dat from txt sources"
+            v2ctl geosite -u geosite.dat -o geosite.dat
+          else
+            echo "v2ctl not installed, skipping geosite.dat rebuild"
+          fi
 
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Update v2rayA rules" || echo "No changes"
+          git commit -m "Update v2rayA rules and geosite.dat with custom domains" || echo "No changes"
           git push
+
