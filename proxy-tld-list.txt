@@ -37,6 +37,7 @@ intel
 intuit
 java
 kindle
+konami
 microsoft
 mini
 mit

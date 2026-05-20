@@ -400,6 +400,7 @@
 55dndn.com
 567321.online
 568xe.com
+573.jp
 58avgo.com
 592r.com
 59mvmv.com
@@ -1286,6 +1287,7 @@ alchemysynth.com
 alefbank.com
 alexa.com
 alexanderstreet.com
+alfa.me
 alfabank.oavdo.amc
 alfabank.ru
 alfabank.st
@@ -2211,6 +2213,7 @@ archives.gov
 archivx.to
 archlinux.de
 archlinux.org
+archlinux.page
 archlinuxarm.org
 archlinuxcn.org
 arcraiders.com
@@ -5298,6 +5301,7 @@ chocam.com
 chocolatey.org
 choicereviews.org
 chomp.com
+chonglangtv.org
 chrdnet.com
 christianfreedom.org
 christianstudy.com
@@ -9391,6 +9395,7 @@ full:espndotcom.tt.omtrdc.net
 full:f3b7q2p3.ssl.hwcdn.net
 full:fandom.zendesk.com
 full:faronics.kayako.com
+full:favoritescc-hamivideo2.cdn.hinet.net
 full:fbcdn-a.akamaihd.net
 full:firebase.google.com
 full:firebase.googleapis.com
@@ -9447,6 +9452,7 @@ full:imperial.insendi.com
 full:ingest.apple-studies.com
 full:lastfm.freetls.fastly.net
 full:lazer.ppy.sh
+full:lgcscc-hamivideo2.cdn.hinet.net
 full:lgelectronics.122.2o7.net
 full:licdn.cn.cdn20.com
 full:linear-abematv.akamaized.net
@@ -9708,6 +9714,7 @@ full:t21.nikkei.co.jp
 full:t21ipau.nikkei.co.jp
 full:teamviewer.com.cdn.cloudflare.net
 full:tesla-cdn.thron.com
+full:thumbnail-hamivideo.cdn.hinet.net
 full:time-a-b.nist.gov
 full:time-a-g.nist.gov
 full:time-a-wwv.nist.gov
@@ -9741,6 +9748,7 @@ full:time3.google.com
 full:time4.facebook.com
 full:time4.google.com
 full:time5.facebook.com
+full:tlmr-hamivideo2.cdn.hinet.net
 full:tmdb-image-prod.b-cdn.net
 full:tmdb-web-image-prod.b-cdn.net
 full:tv.applemusic.com
@@ -9803,6 +9811,7 @@ full:vsmarketplacebadge.apphb.com
 full:wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 full:webchannel-alkalimakersuite-pa.clients6.google.com
 full:weblive-hamivideo.cdn.hinet.net
+full:webvodad-hamivideo.cdn.hinet.net
 full:widgets.stripst.com
 full:wip.adobe.com
 full:wip1.adobe.com
@@ -13945,6 +13954,7 @@ keytransparency.com
 keytransparency.foo
 keytransparency.org
 kfs.io
+kgisystems.com
 kgslb.com
 khanacademy.org
 khatrimaza.org
@@ -14038,6 +14048,7 @@ kisscos.net
 kissjav.com
 kissjav.li
 kitakyushubank.co.jp
+kiwi.jp
 kiwi.kz
 kiwibrowser.com
 kiyobank.co.jp
@@ -14075,6 +14086,20 @@ kompozer.net
 konachan.com
 konachan.net
 konachan.wjcodes.com
+konami
+konami-igaming.online
+konami.co.jp
+konami.com
+konami.net
+konami.org
+konamicrossmedia.com
+konamigaming.com
+konamigaming.net
+konamigaming.online
+konamionline.com
+konamiopen.jp
+konamisportsclub.jp
+konamistyle.jp
 koolsolutions.com
 koornk.com
 kopfhorergunstigshop.com
@@ -16405,6 +16430,7 @@ mysocialworklab.com
 myspacecdn.com
 mysql.com
 mystrikingly.com
+myteamspeak.com
 myteenwebcam.com
 mythicentertainment.com
 mythicentertainment.net
@@ -19810,6 +19836,8 @@ researchkit.hk
 researchkit.net
 researchkit.org
 researchkit.tv
+resella.jp
+resellablue.com
 resilio.com
 resistchina.org
 resonabank.co.jp
@@ -20838,6 +20866,7 @@ shywifeswap.com
 siam.org
 sibreal.org
 sidelinesnews.com
+sider.ai
 siege-amazon.com
 sifangclub.com
 sigcomm.org
@@ -22055,6 +22084,8 @@ teachmyass.com
 teachparentstech.org
 teamneedforspeed.com
 teamskeet.com
+teamspeak-services.com
+teamspeak.com
 teamviewer.com
 teamviewer.us
 tearapeak.com
@@ -24340,6 +24371,7 @@ vulgarx.com
 vultr.com
 vultryhw.com
 vuvuzela.io
+vv1865.com
 vzw.com
 w-mt.co
 w-pool.com
@@ -26176,6 +26208,7 @@ ytn.co.kr
 yuanming.net
 yuenuge113.xyz
 yuenuge18.cc
+yugioh-card.com
 yulghun.com
 yuming.qxbbs.org
 yunchao.net
@@ -26291,6 +26324,7 @@ zhainanjidi.xyz
 zhainanjidid.top
 zhangboz1.xyz
 zhangtianliang.com
+zhangzhehan.net
 zhanlve.org
 zhao.1984.city
 zhengjian.org
