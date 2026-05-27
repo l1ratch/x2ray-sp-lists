@@ -26,6 +26,7 @@
 2047.one
 2049bbs.xyz
 233abc.com
+24hbook.com
 24hrs.ca
 32red.com
 36rain.com
@@ -1156,6 +1157,7 @@ eyny.com
 f-droid.org
 f2pool.com
 f8.com
+f95zone.to
 facebook.com
 facebook.de
 facebook.design
@@ -1344,6 +1346,7 @@ fxcm-chinese.com
 fxnetworks.com
 g-area.org
 g-queen.com
+g.ai
 g.co
 g0v.social
 g6hentai.com
@@ -2195,6 +2198,7 @@ leisurepro.com
 lematin.ch
 lemonde.fr
 lenwhite.com
+leonardo.ai
 lesoir.be
 letscorp.net
 lexica.art
@@ -2302,6 +2306,7 @@ martau.com
 martsangkagyuofficial.org
 marxist.net
 marxists.org
+mas.to
 mash.to
 mastodon.cloud
 mastodon.host
@@ -2446,6 +2451,7 @@ mosavi.io
 motherless.com
 movements.org
 moviefap.com
+mozilla.ai
 mpettis.com
 mpfinance.com
 mpinews.com
@@ -2509,6 +2515,7 @@ ncn.org
 ndi.org
 nekoslovakia.net
 neo-miracle.com
+neodb.social
 neowin.net
 nephobox.com
 netalert.me
@@ -2962,6 +2969,7 @@ raindrop.io
 raizoji.or.jp
 rakuten.co.jp
 ramcity.com.au
+raphael.app
 rapidmoviez.com
 rapidvpn.com
 rarbgprx.org
@@ -3041,6 +3049,7 @@ rti.org.tw
 rti.tw
 rtm.tnt-ea.com
 rts.ch
+rule34.us
 rule34.xxx
 rule34video.com
 rumble.com
@@ -3221,6 +3230,7 @@ sorting-algorithms.com
 sos.org
 sosad.fun
 sosreader.com
+sotwe.com
 soubory.com
 soulcaliburhentai.net
 soundcloud.com
