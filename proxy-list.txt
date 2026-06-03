@@ -2259,6 +2259,7 @@ arweave.org
 arxiv.org
 arzon.jp
 as-hp.ca
+as.mr
 asacp.org
 asagaku.com
 asahi.com
@@ -6754,6 +6755,7 @@ disneyturkiye.com.tr
 disneytvajobs.com
 disneyworld-go.com
 disp.cc
+disq.us
 disqus.com
 disquscdn.com
 disqusservice.com
@@ -7548,6 +7550,7 @@ electronicarts.fr
 electronicsignature.ru
 electronjs.org
 element.io
+elementary.io
 elephantlist.com
 elephantsdream.org
 elephanttube.com
@@ -9470,6 +9473,7 @@ full:media-rockstargames-com.akamaized.net
 full:medone-education.thieme.com
 full:misa-prod.s3.ap-northeast-1.amazonaws.com
 full:mobilelive-hamivideo.cdn.hinet.net
+full:mozilla-ohttp.fastly-edge.com
 full:mscrl.microsoft.com
 full:msh.amazon.co.uk
 full:mtalk-dev.google.com
@@ -10195,6 +10199,7 @@ gemfire.net
 gemfury.com
 gemini.com
 gen.lib.rus.ec
+gencraft.com
 gendai.net
 generated.photos
 genetic-technologies.am
@@ -10256,6 +10261,7 @@ getmalus.com
 getmdl.io
 getnews.jp
 getoutline.org
+getpaint.net
 getpocket.com
 getporn.tv
 getprintersupports.com
@@ -10504,6 +10510,7 @@ gnailapp.sbs
 gnci.org.hk
 gnews.org
 gnom-cham.com
+gnome.org
 gnu.org
 gnzi.xyz
 gnzi1.top
@@ -11317,6 +11324,7 @@ helixstudios.net
 helloandroid.com
 helloavgirls.com
 hellokittybeats.com
+hellomoto.com
 helloqueer.com
 hellosmartbook.com
 hellporno.com
@@ -13920,6 +13928,7 @@ kbzbank.com
 kbzpay.com
 kc3000.shop
 kcqsw-na.sbs
+kde.org
 kdfuli.com
 kdy202312.shop
 keaiav.com
@@ -14484,6 +14493,7 @@ livevideo.com
 livexxx.me
 livingstream.com
 livingyourambition.com
+livinno.org
 livrariart.com.br
 lizardporn.com
 lizol.co.in
@@ -14673,6 +14683,7 @@ lvhtebook.com
 lvv2.com
 lwwcn.buzz
 lwwcn.xyz
+lxqt-project.org
 lxxlxx.com
 lyfhk.net
 lysol.ca
@@ -15048,6 +15059,7 @@ masturbate2gether.com
 mat6tube.com
 matainja.com
 matchmover.com
+mate-desktop.org
 material.io
 mathoverflow.net
 matome-plus.com
@@ -16077,7 +16089,31 @@ mostpopularpornsites.com
 motherless.com
 motiongraphicsandmore.com
 motionpictureser.com
+moto.com
 motolia.com
+motorola.ca
+motorola.cl
+motorola.co
+motorola.co.id
+motorola.co.jp
+motorola.co.th
+motorola.co.uk
+motorola.com
+motorola.com.au
+motorola.com.co
+motorola.com.pe
+motorola.com.pr
+motorola.de
+motorola.es
+motorola.fr
+motorola.gr
+motorola.in
+motorola.it
+motorola.net
+motorola.vn
+motorolacareers.com
+motorolanews.com
+motorolasolutions.com
 motorshowblog.com
 mottainai.info
 move-free.net
@@ -17640,6 +17676,7 @@ ooni.org
 ootbstudio.co.kr
 op.gg
 op7979.com
+opac-project.eu
 open.firstory.me
 openai.com
 openamt.com
@@ -17881,6 +17918,7 @@ paily.org
 paimon.moe
 painfulpussytortures.com
 painnovel.com
+paint.net
 paipal.com
 paipancon.com
 paisapay.cc
@@ -18451,6 +18489,7 @@ planetsuzy.org
 plannotator.ai
 plansondemand.com
 plantsvszombies2.com
+plasma-mobile.org
 plasticlabs.com
 plastics-cadcam.com
 platiecom.ru
@@ -21951,6 +21990,7 @@ synologydownload.com
 synologyupdate.com
 syosetu.com
 sysinternals.com
+system76.com
 syzbj36.xyz
 szabadeuropa.hu
 szcheapmonsterheadphones.com
@@ -22685,6 +22725,7 @@ tomonews.net
 tomp3.cc
 tomsguide.com
 ton.org
+toncenter.com
 tonec.com
 tonicmovies.com
 toolforge.org
@@ -23529,6 +23570,7 @@ vday.io
 vdoav.com
 vecchiescopate.casa
 vector.im
+veed.io
 veet.at
 veet.be
 veet.ca
@@ -25157,6 +25199,7 @@ xenoblade.com
 xeon.com
 xerotica.com
 xfantazy.com
+xfce.org
 xfemaledom.com
 xfinity.com
 xfockers.com
@@ -25180,11 +25223,15 @@ xhamster.xxx
 xhamster18.com
 xhamster18.desi
 xhamster19.com
+xhamster2.com
 xhamster3.com
 xhamsterlive.com
 xhcdn.com
+xhnews.live
 xhot.pro
+xhpingcdn.com
 xhpjc6-cdn-settings.appsflyersdk.com
+xhreal5.com
 xhub.tv
 xiangrikui-app.com
 xianir.xyz
@@ -25912,7 +25959,6 @@ yho.com
 yhy.cool
 yibaochina.com
 yibei.org
-yidio.com
 yigeni.com
 yimg.com
 yimg.jp
