@@ -42,6 +42,7 @@ microsoft
 mini
 mit
 nexus
+nhk
 nico
 nike
 office
