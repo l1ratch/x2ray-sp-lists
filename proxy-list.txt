@@ -585,6 +585,7 @@
 9nation.com.au
 9news.com.au
 9now.com.au
+9oju31.launches.appsflyersdk.com
 9tak-nav.buzz
 9to5google.com
 9to5mac.com
@@ -679,6 +680,7 @@ accomable.com
 account-paypal.info
 account-paypal.net
 account-paypal.org
+accountboy.com
 accountkit.com
 accountpaypal.com
 accountpaypal.net
@@ -1402,6 +1404,7 @@ allpornsitespass.com
 allspyclips.com
 allswingersclubs.org
 allthefallen.moe
+almalinux.org
 alohatube.com
 alotporn.com
 alphabet.asia
@@ -1803,6 +1806,7 @@ apexlegends.com
 apexprint.com.hk
 api-extractor.com
 api.ai
+api.moomoobull.com
 api.news
 api.palworldgame.com
 apiary.io
@@ -1844,6 +1848,7 @@ appbridge.io
 appbridge.it
 appcenter.ms
 appcloud.com
+appconsent.io
 appdomain.cloud
 appdynamics.co.uk
 appdynamics.com
@@ -2739,6 +2744,7 @@ awwcn.buzz
 awwcn.xyz
 awxcdn.com
 axbdoll.com.tw
+axept.io
 axios.com
 axureformac.com
 ayabank.com
@@ -3515,6 +3521,7 @@ bild.de
 bili2.cc
 bili888.com
 bili999.com
+bilinovel.com
 biliplus.com
 biliworld.com
 bill-safe.com
@@ -4639,6 +4646,7 @@ bustynudebabes.com
 bustyoldsluts.com
 bustysammieblack.com
 busu.org
+busybox.net
 buy-from-shanghai.com
 buyaapl.com
 buyaapl.net
@@ -5051,6 +5059,7 @@ cdjp.org
 cdkworkshop.com
 cdmatech.com
 cdn-apple.com
+cdn-cookieyes.com
 cdn-telegram.org
 cdn-terapeak.com
 cdn-tinkoff.ru
@@ -5146,6 +5155,7 @@ cfl.re
 cfna.com
 cfr.org
 cfwives.com
+cg.play-analytics.com
 cgdepot.org
 ch9.ms
 chainid.network
@@ -5772,6 +5782,7 @@ conoha.jp
 conquerwithcharacter.com
 conscrypt.com
 conscrypt.org
+consentmanager.net
 consentpro.com
 constructware.com
 consul.io
@@ -5781,9 +5792,11 @@ contechacademy.com
 contentful.com
 contest.com
 convrgencegame.com
+cookiebot.com
 cookiechoices.org
 cookielaw.org
 cookiepro.com
+cookieyes.com
 cool-comics.com
 cool18.com
 cool3c.com
@@ -6553,6 +6566,7 @@ devv.ai
 dewitwithdurex.com
 dexterhorn.com
 dezyred.com
+dfvpn.com
 dgaqp.com
 dgg.gg
 dgwav.com
@@ -8022,6 +8036,7 @@ exmormon.org
 exoav.com
 exotic-ghana.com
 exoticuganda.com
+exp-tas.com
 expatshield.com
 expecthim.com
 expekt.com
@@ -9520,6 +9535,8 @@ full:github-production-repository-image-32fea6.s3.amazonaws.com
 full:github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
 full:github-production-user-asset-6210df.s3.amazonaws.com
 full:gitlab-assets.oss-cn-hongkong.aliyuncs.com
+full:gog-cdn-lumen.secure2.footprint.net
+full:gog-cdn.akamaized.net
 full:google-ohttp-relay-safebrowsing.fastly-edge.com
 full:hamivideo.hinet.net
 full:hammerandchisel.ssl.zendesk.com
@@ -9810,6 +9827,8 @@ full:steamusercontent-a.akamaihd.net
 full:steamuserimages-a.akamaihd.net
 full:steamvideo-a.akamaihd.net
 full:straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
+full:supercell.helpshift.com
+full:supercell.zendesk.com
 full:t.ssp.hinet.net
 full:t21.nikkei.co.jp
 full:t21ipau.nikkei.co.jp
@@ -10019,6 +10038,7 @@ full:wwis-dubc1-vip97.adobe.com
 full:wwis-dubc1-vip98.adobe.com
 full:wwis-dubc1-vip99.adobe.com
 full:www-cdn.icloud.com.akadns.net
+full:www.microsoft.com
 full:www.quora.com.cdn.cloudflare.net
 full:yangzhi.app
 full:yt3.googleusercontent.com
@@ -10069,9 +10089,21 @@ futanarihq.com
 futhead.com
 futpromos.com
 futu.cn
+futu.com
 futu.link
+futu0.com
+futu1.com
+futu2.com
+futu3.com
+futu4.com
 futu5.com
+futu6.com
+futu7.com
+futu8.com
+futu9.com
 futuau.com
+futubull.cn
+futuchain.com
 futuesop.com
 futufin.com
 futuhk.com
@@ -10080,6 +10112,7 @@ futuhk2.com
 futuhkapp.com
 futuhn.com
 futuholdings.com
+futuinc.com
 futunited.com
 futuniuniu.com
 futunn.com
@@ -10093,6 +10126,7 @@ futureshop.ca
 futusg.com
 futustatic.com
 fututrade.com
+fututrustee.com
 fuxporn.com
 fuzokudx.com
 fw.cm
@@ -10167,6 +10201,7 @@ gamesplanet.com
 gamesstack.com
 gametap.com
 gameuxmasterguide.com
+gamewtb.com
 gamez.com.tw
 gaming-notebooks.com
 gandhara.ru
@@ -10519,6 +10554,7 @@ gitbook.io
 gitgud.io
 github.ai
 github.blog
+github.career
 github.com
 github.community
 github.dev
@@ -10659,6 +10695,7 @@ gobuyonlinestore.net
 gockhuatviet.com
 godaddy
 godaddy.com
+godaddy.net
 godbolt.org
 godfootsteps.org
 godoc.org
@@ -10667,8 +10704,10 @@ gofile.me
 gofucker.com
 gofuckmenow.com
 gofundme.com
+gog-services.com
 gog-statics.com
 gog.com
+gogalaxy.com
 gogettaxi.org
 gogle.com
 gogo-load.com
@@ -14523,6 +14562,7 @@ licdn.com
 licensebuttons.net
 licenseparser.com
 life-global.org
+lifeatspotify.com
 lifemiles.com
 lifeselector.com
 lifestyle-tec.ru
@@ -14732,6 +14772,7 @@ longbridgehk.com
 longmabook.com
 longmabookcn.com
 longman.ch
+longportapp.cn
 longportapp.com
 longtailvideo.com
 longtermly.net
@@ -15027,6 +15068,7 @@ manhuntdaily.com
 manhwa24h.com
 manhwahentai.me
 maniakey.homes
+manjaro.org
 manorama.com
 manoramanews.com
 manoramaonline.com
@@ -20231,6 +20273,7 @@ rocksdb.org
 rocksextube.com
 rockstargames.com
 rockstarnorth.com
+rockylinux.org
 rojo.com
 roku.com
 rokutime.com
@@ -20642,6 +20685,7 @@ schueco.com
 schueco.de
 schwab.co.uk
 schwab.com
+schwab.com.cn
 schwab.com.hk
 schwab.com.sg
 schwabassetmanagement.com
@@ -21013,6 +21057,7 @@ sg120.me
 sg1lib.org
 sgcheck.ru
 sgp1.fun
+sgqt0j.launches.appsflyersdk.com
 sgr.com.br
 sgspe.de
 sgspt.buzz
@@ -21168,6 +21213,7 @@ shoppinguheadphones.com
 shops-disney.com
 shopspeedtv.com
 shoptraivip.com
+shortconn.im.qcloud.com
 shorturl.at
 shotgridsoftware.com
 shotgridstudio.com
@@ -21749,6 +21795,7 @@ spotifycdn.net
 spotifycharts.com
 spotifycodes.com
 spotifyforbrands.com
+spotifyforvendors.com
 spotifyjobs.com
 spraynwash.com
 spreadprivacy.com
@@ -22139,7 +22186,6 @@ supanimegames.com
 supchina.com
 superadultgames.com
 supercell.com
-supercell.helpshift.com
 supercell.net
 supercellcreators.com
 supercellgames.com
@@ -22419,6 +22465,7 @@ taxitax.org
 taylorandfrancis.com
 taylorfrancis.com
 tb-esim.ru
+tb.pro
 tbank-online.com
 tbank.ru
 tbcollege.org
@@ -22546,6 +22593,7 @@ terapeak.info
 teraperk.com
 terk.nl
 termius.com
+termly.io
 termux.com
 termux.dev
 termux.org
@@ -22833,6 +22881,7 @@ thumbnailseries.com
 thumbzilla.com
 thunderbird.net
 thunderbolttechnology.net
+thundermail.com
 thywords.com
 thz7.net
 thzu.cc
@@ -22903,6 +22952,10 @@ tiffany-towers.com
 tig-ol-bitties.live
 tigerbbs.cn
 tigerbbs.com
+tigerbrokers.com
+tigerbrokers.net
+tigerbrokers.nz
+tigerfintech.com
 tigervpn.com
 tik-tokapi.com
 tiktok-minis.com
@@ -23133,6 +23186,7 @@ tracfone.com
 tracker.gg
 tracker.network
 tracking-location.com
+tradeup.com
 tradevip1.com
 tradingview.com
 trae.ai
@@ -23209,6 +23263,7 @@ truefi.io
 truenas.com
 trunest.com
 trust-provider.com
+trustarc.com
 trustcor.ca
 trustcor.com
 trustdoc.ch
@@ -24720,7 +24775,10 @@ vscale.io
 vscale.ru
 vscode-cdn.net
 vscode-unpkg.net
+vscode-webview.net
 vscode.dev
+vscodeedu.app
+vscodeedu.com
 vsemrabota.ru
 vsex.in
 vsezoo.com
@@ -25342,6 +25400,7 @@ wrenchead.com
 writesonic.com
 ws-blau.com
 ws-tcg.com
+wsimg.com
 wsj.com
 wsj.jobs
 wsj.net
@@ -25731,6 +25790,7 @@ xn--ubt498knmf.com
 xn--uis17aj9kmuf.com
 xn--uis44a.xn--j6w193g
 xn--urs05q.jp
+xn--vuqv2cf7wzyig79c.com
 xn--wcv22d.hk
 xn--wcv22d.xn--j6w193g
 xn--wcvs22d.xn--j6w193g
@@ -26747,6 +26807,8 @@ zhao.1984.city
 zhengjian.org
 zhengwunet.org
 zhenxiang.biz
+zhijianfengyi.cn
+zhijianfengyi.com
 zhimeishe888.com
 zhizhu.top
 zhongguo.ca
