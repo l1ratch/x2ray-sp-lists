@@ -1,14 +1,19 @@
 alibaba
 alipay
+anquan
 baidu
 citic
 cn
 icbc
+shouji
+sina
 sohu
 taobao
 tmall
 unicom
 wang
+weibo
+xihuan
 xn--1qqw23a
 xn--3bst00m
 xn--3ds443g
@@ -19,6 +24,7 @@ xn--6frz82g
 xn--6qq986b3xl
 xn--8y0a063a
 xn--9et52u
+xn--9krt00a
 xn--czr694b
 xn--czrs0t
 xn--czru2d
@@ -41,3 +47,4 @@ xn--vhquv
 xn--vuq861b
 xn--xhq521b
 xn--zfr164b
+yun

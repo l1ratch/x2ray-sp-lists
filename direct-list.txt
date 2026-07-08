@@ -7786,6 +7786,7 @@
 777haoka.com
 777lala.com
 777moban.com
+777ppt.com
 777sy.com
 777yh.am
 7788.com
@@ -10295,6 +10296,7 @@ admin5.com
 admin5.net
 admin6.com
 admin88.com
+admincdn.com
 adminer.com
 admintony.com
 adminxe.com
@@ -12251,6 +12253,7 @@ anqingonline.com
 anqingzhiyun.com
 anqn.com
 anqu.com
+anquan
 anquan.info
 anquan.org
 anquanbao.com
@@ -15143,6 +15146,7 @@ beidouone.com
 beidousafety.org
 beidouxingxueche.com
 beiduolab.com
+beie.org
 beierbio.com
 beierjin.net
 beieryouxi.com
@@ -32473,7 +32477,6 @@ embryform.com
 embryochina.com
 embsky.com
 emby.men
-emby.yun
 embyvip.org
 emcbj.com
 emcdir.com
@@ -40043,6 +40046,7 @@ guojianglive.com
 guojiayikao.com
 guojiayixuekaoshi.com
 guojiazhiyezige.com
+guojibk.com
 guojiexpress.com
 guojijinjia.com
 guojimami.com
@@ -77796,6 +77800,7 @@ rrioo.com
 rrjc.com
 rrkf.com
 rrky.com
+rrmj.plus
 rrmj.tv
 rrppt.com
 rrrdai.com
@@ -81775,6 +81780,7 @@ shouhuigroup.com
 shouhuisoft.com
 shouhuojiyun.com
 shouhuola.com
+shouji
 shouji.com
 shouji.racing
 shouji10086.com
@@ -82682,6 +82688,7 @@ simuwang.com
 simwe.com
 simxhs.com
 sin0sites.com
+sina
 sina-cf.com
 sina.com
 sina.lt
@@ -89652,6 +89659,7 @@ token-sensor.com
 tokenglish.com
 tokensky.net
 tokimekiclub.org
+tol.vip
 tol24.com
 tom.cat
 tom.com
@@ -91039,6 +91047,7 @@ twtstudio.com
 twty.vip
 twwtn.com
 twyuxin.com
+twyxh.com
 twyxi.com
 twzilla.com
 twzui6.com
@@ -93361,6 +93370,7 @@ vpspurchase.com
 vpsrb.com
 vpsss.net
 vpssw.com
+vpsvs.com
 vpsvsvps.com
 vpszh.com
 vptek.com
@@ -94555,6 +94565,7 @@ weibanan.com
 weibang.vip
 weibangong.com
 weibanzhushou.com
+weibo
 weibo.com
 weibo.tv
 weibocdn.com
@@ -95046,6 +95057,7 @@ wenmeng.com
 wenmi114.com
 wenmingban.com
 wenneart.com
+wenpai.org
 wenpie.com
 wenqy.com
 wenroo.com
@@ -96669,6 +96681,7 @@ wpan123.com
 wpceo.com
 wpcio.com
 wpcsh.com
+wpcy.com
 wpdaxue.com
 wpdian.com
 wpengapp.com
@@ -99273,6 +99286,7 @@ xihaxueche.com
 xihazsww.com
 xihegp.com
 xiherencai.com
+xihuan
 xihuan.me
 xihusgh.com
 xiimoon.com
@@ -100566,6 +100580,7 @@ xn--8y0a063a
 xn--91-y60d638c.xyz
 xn--9et52u
 xn--9kr72kqwe.com
+xn--9krt00a
 xn--9myo55bi8l.com
 xn--9pr56vfna007k.com
 xn--9pry86bq5ex68c.org
@@ -105873,6 +105888,7 @@ yumingguwen.com
 yumingyouhui.com
 yummy.tech
 yumstone.com
+yun
 yun-ac.com
 yun-dns.com
 yun-gu.com
@@ -111257,6 +111273,7 @@ zwzsh.net
 zwzyzx.com
 zx-tour.com
 zx-xcx.com
+zx.com
 zx0093.com
 zx017.com
 zx017.net
@@ -111919,6 +111936,7 @@ full:edge.geo.kaspersky.com
 full:emoi-cncdn.bing.com
 full:end-api.shallow.ink
 full:end.shallow.ink
+full:entitlements-edge.itunes.apple.com
 full:experiments.apple.com
 full:f.c2r.ts.cdn.office.net
 full:fcs.dell.com
@@ -111927,6 +111945,7 @@ full:firebase-settings.crashlytics.com
 full:fontfiles.googleapis.com
 full:fonts.googleapis.com
 full:fonts.gstatic.com
+full:fpinit.itunes.apple.com
 full:fta.dell.com
 full:ftaapj.dell.com
 full:ftaemea.dell.com

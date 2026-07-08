@@ -1886,6 +1886,7 @@ apple-pay.rs
 apple-pay.wang
 apple-store.net
 apple-store.wang
+apple-studies.com
 apple-usa.net
 apple-watch.com.ru
 apple.ae
@@ -2388,6 +2389,7 @@ atlasonepoint.com
 atlassian-dev.net
 atlassian.com
 atlassian.net
+atmeta.com
 atnext.com
 atokara.jp
 atom.io
@@ -2767,6 +2769,7 @@ aziani.com
 azirevpn.com
 aznude.com
 azure
+azure-api.net
 azure-devices-int.net
 azure-devices.net
 azure-dns.com
@@ -2804,6 +2807,7 @@ azureplanetscale.net
 azureserviceprofiler.com
 azuresmartspaces.net
 azurestackvalidation.com
+azurestaticapps.net
 azurewebsites.net
 b-cdn.net
 b-eroland.net
@@ -3680,6 +3684,7 @@ blacksonblondes.com
 blackstonespoliceservice.com
 blacktowhite.net
 blackvpn.com
+blanc.ru
 blaoshi.cc
 blast.io
 blazor.net
@@ -4366,6 +4371,7 @@ bossagency.co.uk
 boswp.com
 botanwang.com
 botframework.com
+botim.me
 botmechanic.io
 botorch.org
 botstop.com
@@ -5818,6 +5824,7 @@ coomer.su
 coova.com
 coova.net
 coova.org
+copilot.com
 copro.pw
 copy-manga.com
 copy20.com
@@ -8852,6 +8859,8 @@ flowfront.net
 flowgpt.com
 flowhongkong.net
 flowtype.org
+flowwow-images.com
+flowwow.com
 fluffychat.im
 fluidfxapp.com
 fluidpreview.com
@@ -9341,6 +9350,7 @@ full:3dns.adobe.com
 full:a.ppy.sh
 full:a4e8s8k3.map2.ssl.hwcdn.net
 full:abematv.akamaized.net
+full:acd89244c803f7181.awsglobalaccelerator.com
 full:activate-sea.adobe.com
 full:activate-sjc0.adobe.com
 full:activate.adobe.com
@@ -9354,6 +9364,7 @@ full:adobe-dns-3.adobe.com
 full:adobe-dns-4.adobe.com
 full:adobe-dns.adobe.com
 full:adobeereg.com
+full:afa7f374f51cc8991.awsglobalaccelerator.com
 full:ai.google.dev
 full:alkalicore-pa.clients6.google.com
 full:alkalimakersuite-pa.clients6.google.com
@@ -9570,7 +9581,6 @@ full:img-prod-cms-rt-microsoft-com.akamaized.net
 full:img-s-msn-com.akamaized.net
 full:impala-media-production.s3.amazonaws.com
 full:imperial.insendi.com
-full:ingest.apple-studies.com
 full:lastfm.freetls.fastly.net
 full:lazer.ppy.sh
 full:lgcscc-hamivideo2.cdn.hinet.net
@@ -9644,6 +9654,7 @@ full:onekey.zendesk.com
 full:oneocsp.microsoft.com
 full:ood.opsource.net
 full:openaiapi-site.azureedge.net
+full:openaiassets.blob.core.windows.net
 full:openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 full:openaicom.imgix.net
 full:openaicomproductionae4b.blob.core.windows.net
@@ -10074,6 +10085,8 @@ funimation.com
 funkyimg.com
 funnyfacebook.org
 funnyordie.com
+funpay.com
+funpay.ru
 funshemale.com
 fuq.com
 fuqqt.com
@@ -11910,6 +11923,9 @@ horizontal-llc.com
 horizontal-systems.com
 horizontalglue.com
 horizontalsystems.com
+hornet.com
+hornetapp.com
+hornetx.com
 hornyasianmilfs.com
 hornybitches.org
 hornybutt.com
@@ -14654,6 +14670,7 @@ listennotes.com
 listentoyoutube.com
 listinganalytics.net
 litbus-anime.com
+litecoin.org
 litenews.hk
 literatumonline.com
 literotica.com
@@ -16924,7 +16941,9 @@ netflixinvestor.com
 netflixtechblog.com
 netlify.app
 netlify.com
+netlifydns.com
 netlifystatus.com
+netlifyusercontent.com
 netlock.hu
 netme.cc
 netname.com.br
@@ -17467,6 +17486,7 @@ ntdtv.se
 ntdtvla.com
 ntdvideo.tw
 ntdvn.com
+ntl.fyi
 ntnews.com.au
 ntp-os01.ocn.ad.jp
 ntp-tk01.ocn.ad.jp
@@ -18246,6 +18266,8 @@ patreoncommunity.com
 patreonusercontent.com
 paulsimon-music.com
 pavpal.com
+pawchive.pw
+pawchive.st
 pawoo.net
 paxful.com
 paxlicense.org
@@ -21066,6 +21088,7 @@ sfmcompile.club
 sforce.com
 sfshibao.com
 sftuk.org
+sfunpay.com
 sfx.ms
 sg120.me
 sg1lib.org
@@ -22522,6 +22545,7 @@ technogym.ru
 technogym.su
 technologyandsociety.org
 techradar.com
+techspot.com
 techstreet.com
 techtimes.com
 techtudo.com
@@ -22997,6 +23021,7 @@ tilda.ru
 tilda.ws
 tildaapi.com
 tildacdn.com
+tildacdn.net
 tiltbrush.com
 timdir.com
 time-messenger.ru
@@ -25021,6 +25046,7 @@ webpass.net
 webpkgcache.com
 webrtc.org
 websdr.org
+webshare.io
 website.new
 webtoons.com
 webtoonscorp.com
