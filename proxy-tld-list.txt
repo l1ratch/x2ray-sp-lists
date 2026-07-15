@@ -22,7 +22,6 @@ gle
 gmail
 gmo
 godaddy
-goo
 goog
 google
 gucci
@@ -33,11 +32,9 @@ hotmail
 hsbc
 ibm
 imdb
-intel
 intuit
 java
 kindle
-konami
 microsoft
 mini
 mit
