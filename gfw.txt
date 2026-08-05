@@ -691,6 +691,7 @@ centauro.com.br
 centerforhumanreprod.com
 centralnation.com
 centurys.net
+cerebras.ai
 certificate-transparency.org
 certificate.revocationcheck.com
 cfr.org
@@ -771,6 +772,7 @@ chrome.com
 chromecast.com
 chromeexperiments.com
 chromestatus.com
+cht.com.tw
 ci-en.jp
 cia.gov
 cici.com
@@ -2264,6 +2266,7 @@ lenwhite.com
 leonardo.ai
 lesoir.be
 letscorp.net
+level-plus.net
 lexica.art
 lhakar.org
 li.taipei
@@ -2527,7 +2530,6 @@ mosavi.io
 motherless.com
 movements.org
 moviefap.com
-mozilla.ai
 mpettis.com
 mpfinance.com
 mpinews.com
@@ -2682,6 +2684,7 @@ ntd.tv
 ntdtv.com
 ntdtv.com.tw
 ntdtv.cz
+nthlink.com
 nuexpo.com
 nurgo-software.com
 nusatrip.com
@@ -2999,7 +3002,6 @@ puffinbrowser.com
 pullfolio.co
 pure18.com
 pureconcepts.net
-puredns.org
 pureinsight.org
 purepdf.com
 purevpn.com
@@ -3044,7 +3046,6 @@ radio.co
 radio.garden
 radioaustralia.net.au
 radiohilight.net
-radiojar.com
 radioline.co
 radiovaticana.org
 radiovncr.com
@@ -3157,7 +3158,6 @@ sadpanda.us
 safechat.com
 safeguarddefenders.com
 safervpn.com
-sagernet.org
 saintyculture.com
 sakuralive.com
 salvation.org.hk
@@ -3887,6 +3887,7 @@ uyghurstudies.org
 uyghurtribunal.com
 uygur.fc2web.com
 uymaarip.com
+v.recipes
 v2.help
 v2.hysteria.network
 v2ex.com
@@ -4152,7 +4153,6 @@ www.ajsands.com
 www.antd.org
 www.aolnews.com
 www.bing.com
-www.clashverge.dev
 www.cmoinc.org
 www.dmm.com
 www.eastturkistan.net
