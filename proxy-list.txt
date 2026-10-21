@@ -489,6 +489,7 @@
 7tb.cc
 7tv.app
 7tv.io
+7x24hrs.com
 8-d.com
 8008206616.com
 8111y.top
@@ -2368,7 +2369,6 @@ asminternational.org
 asmr.gay
 asmrbuluo.com
 asn-online.org
-asobostudio.com
 asp-cc.com
 asp.net
 aspbjournals.org
@@ -2686,8 +2686,10 @@ avinetworks.com
 avinin.com
 avira.com
 avistaz.to
+avito.com
 avito.ru
 avito.st
+avito.tech
 avizoon.site
 avizoone.com
 avjb.com
@@ -3354,8 +3356,15 @@ beevpn.com
 beforeigners.com
 befuck.com
 befuck.net
+beget.app
+beget.cloud
 beget.com
+beget.de
+beget.hosting
+beget.pro
 beget.ru
+beget.tech
+begetcdn.cloud
 begin-trade.com
 behance.net
 behindthescreenz.com
@@ -3388,6 +3397,7 @@ berlincompanions.com
 berlinerbericht.de
 berlintwitterwall.com
 beru.ru
+beserver.ru
 best-sex-games.com
 best2pay.net
 best4bim.com
@@ -3498,6 +3508,7 @@ bfads.net
 bffshd.com
 bfnn.org
 bfsh.hk
+bget.ru
 bgicdn.com
 bgm.tv
 bgme.me
@@ -6132,6 +6143,7 @@ cursor-cdn.com
 cursor.com
 cursor.sh
 cursorapi.com
+cursorvm.com
 curve.fi
 curvefish.com
 curvybbwwives.com
@@ -8965,7 +8977,6 @@ flic.kr
 flickr
 flickr.com
 flickr.net
-flightsimulator.com
 flipboard.com
 flipfap.com
 flipkart.com
@@ -9618,6 +9629,7 @@ full:d2vjef5jvl6bfs.cloudfront.net
 full:d2xmjdvx03ij56.cloudfront.net
 full:d31dormfno8pk4.cloudfront.net
 full:d33wubrfki0l68.cloudfront.net
+full:d348twzf7a8p5.cloudfront.net
 full:d36nr0u3xmc4mm.cloudfront.net
 full:d3aqoihi2n8ty8.cloudfront.net
 full:d3c27h4odz752x.cloudfront.net
@@ -9642,6 +9654,7 @@ full:deribit.cdn.prismic.io
 full:deutschewelle.h-cdn.com
 full:developer.microsoft.com
 full:developers.facebook.com
+full:devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
 full:dfp6rglgjqszk.cloudfront.net
 full:dgeft87wbj63p.cloudfront.net
 full:discord-attachments-uploads-prd.storage.googleapis.com
@@ -9652,6 +9665,7 @@ full:dlmobilegarena-a.akamaihd.net
 full:dmqdd6hw24ucf.cloudfront.net
 full:docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
 full:docker-pinata-support.s3.amazonaws.com
+full:doy2mn9upadnk.cloudfront.net
 full:dqd0jw5gvbchn.cloudfront.net
 full:dqrpb9wgowsf5.cloudfront.net
 full:ds-linear-abematv.akamaized.net
@@ -9699,7 +9713,6 @@ full:firebaselogging.googleapis.com
 full:firebaseperusertopics-pa.googleapis.com
 full:firebaseremoteconfig.googleapis.com
 full:firstsearch.oclc.org
-full:flightsimulator.azureedge.net
 full:fontshop-prod-responsive-images.s3.amazonaws.com
 full:foxnewsplayer-a.akamaihd.net
 full:gamedownloads-rockstargames-com.akamaized.net
@@ -9747,6 +9760,8 @@ full:impala-media-production.s3.amazonaws.com
 full:imperial.insendi.com
 full:incoming-telemetry.thunderbird.net
 full:incoming.telemetry.mozilla.org
+full:kp-config-smart-tv.akamaized.net
+full:kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 full:lastfm-img.freetls.fastly.net
 full:lastfm.freetls.fastly.net
 full:lazer.ppy.sh
@@ -15237,6 +15252,7 @@ magentomobile.com
 magestic.com
 magicalmirai.com
 magicmovies.com
+magnific.com
 mahajantech.com
 mahjongsoul.com
 maidonanews.jp
@@ -16708,6 +16724,7 @@ mt.lv
 mt0011.site
 mtao.fun
 mthruf.com
+mts-link.ru
 mts-ws.net
 mts.ru
 mtsbank.ru
@@ -18227,6 +18244,7 @@ op7979.com
 opac-project.eu
 open.firstory.me
 openai.com
+openai.org
 openamt.com
 openapiplatform.com
 openapiservice.com
@@ -19095,6 +19113,7 @@ playshowtv.com
 playstation
 playstation.com
 playstation.net
+playstationnetwork.com
 playvalorant.com
 playvids.com
 playwarcraft3.com
@@ -19557,6 +19576,7 @@ postgresql.org
 postimages.org
 postimg.cc
 postini.com
+postman.com
 posts.careerengine.us
 posty.kr
 postyourgirls.ws
@@ -19830,6 +19850,7 @@ pussyspace.com
 pussyspace.net
 putinho.net
 putty.org
+pv-cdn.net
 pvp.net
 pvp.tv
 pvt.sexy
@@ -21006,6 +21027,7 @@ scatvids.club
 scatville.com
 scb.ru
 scdn.co
+scea.com
 scene7.com
 scenesource.me
 scharferporno.com
@@ -21021,6 +21043,7 @@ schwab.com.cn
 schwab.com.hk
 schwab.com.sg
 schwabassetmanagement.com
+schwabcdn.com
 schwabplan.com
 sci-hub.ee
 sci-hub.it.nf
@@ -21972,6 +21995,7 @@ sony.com.ni
 sony.com.pa
 sony.com.pe
 sony.com.ph
+sony.com.py
 sony.com.sg
 sony.com.sv
 sony.com.tr
@@ -22015,8 +22039,10 @@ sonydesign.com
 sonydna.com
 sonyentertainmentnetwork.com
 sonyglobalsolutions.jp
+sonyinteractive.com
 sonykigyo.jp
 sonylatvija.com
+sonymusic.com.hk
 sonynetwork.co.jp
 sonypcl.jp
 sonypictures.com
@@ -22168,6 +22194,7 @@ springernature.com
 springwood.me
 sprinklesapp.com
 sproutcore.com
+sprut.io
 sptvbroadcast.com
 sputnikglobe.com
 sputnikimages.com
@@ -23377,6 +23404,8 @@ timesofindia.indiatimes.com
 timestalks.com
 timeweb.cloud
 timeweb.com
+timeweb.tech
+timewebcloud.kz
 timi1.me
 timo0.com
 timtales.com
@@ -23954,6 +23983,7 @@ typekit.com
 typekit.net
 typenetwork.com
 typepad.com
+typesafe.ai
 typeset.io
 typesquare.com
 typography.com
@@ -26147,6 +26177,7 @@ xn--8uq428d76d.tokyo
 xn--90ab.com
 xn--90ab2c.xn--p1ai
 xn--90absjljw3g.xn--p1ai
+xn--90aefb9d.xn--p1ai
 xn--90aifd0az.shop
 xn--90aifd0azb.xn--p1acf
 xn--90wwvt03e.com
