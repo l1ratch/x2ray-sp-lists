@@ -37,6 +37,7 @@
 123-hp.com
 123av.com
 123av.me
+123av.org
 123bin.cc
 123dapp.com
 123dappipad.com
@@ -176,6 +177,7 @@
 1password.co
 1password.com
 1password.community
+1password.dev
 1password.eu
 1password.io
 1passwordservices.com
@@ -222,6 +224,7 @@
 22112211.xyz
 233abc.com
 2371tom.com
+24.place
 24h.tv
 24hbook.com
 24hjav.com
@@ -760,6 +763,7 @@ addthis.com
 addthiscdn.com
 addthisedge.com
 addtoany.com
+addtodropbox.com
 addyoutube.com
 adelaidenow.com.au
 adgoogle.net
@@ -1777,6 +1781,7 @@ anonfiles.com
 anonymouse.org
 ansarbank.com
 ansin.erodayo.com
+ant.dev
 antarvasnaclips.com
 antarvasnax.com
 antenna.co.kr
@@ -1784,10 +1789,12 @@ anthemgame.com
 anthemthegame.com
 anthonycalzadilla.com
 anthropic.com
+anthropic.team
 antiphishing.nl
 antiphishing.ru
 antiwave.net
 antpool.com
+antspace.dev
 anudetube.com
 anuneko.com
 anxiangxing.com
@@ -2293,6 +2300,7 @@ arte.tv
 artel.watch
 arteldoc.com
 arteldoc.tv
+artificialanalysis.ai
 artixlinux.org
 artnudegalleries.com
 artoferotica.info
@@ -3754,6 +3762,8 @@ blizzard.com
 blizzardgearstore.com
 blockcast.it
 blockchain.com
+blockchair.com
+blockchair.net
 blockcn.com
 blockedbyhk.com
 blockfrost.io
@@ -5170,6 +5180,10 @@ cdnxxx-proxy.xyz
 cdp1998.org
 cdp2006.org
 cdpeu.org
+cdpred.services
+cdprojekt.com
+cdprojekt.red
+cdprojektred.com
 cdpuk.co.uk
 cdpweb.org
 cdpwu.org
@@ -5260,6 +5274,7 @@ charticulator.com
 chat.com
 chat.lmsys.org
 chatango.com
+chatbotclaude.com
 chatgpt.com
 chatgpt.livekit.cloud
 chatgpt.site
@@ -5580,10 +5595,16 @@ classicnike.com
 classymomsex.com
 clau.de
 claude.ai
+claude.app
 claude.com
 claude.dev
+claude.new
+claude.site
+claudeacademy.com
 claudemcpclient.com
 claudemcpcontent.com
+claudepages.dev
+claudestudio.com
 claudeusercontent.com
 clawhub.ai
 clck.ru
@@ -5600,6 +5621,7 @@ clickedu.co.uk
 clickserve.cc-dt.com
 clickserver.googleads.com
 climate-server.com
+cline.bot
 clinica-tibet.ru
 clinical-videos.com
 clinicalkey.com
@@ -5843,6 +5865,7 @@ comicuniverse.org
 comixzilla.com
 comm-verse.com
 commandandconquer.com
+commandcode.ai
 comments.app
 commentshk.com
 commerceos.com
@@ -5895,6 +5918,7 @@ containersonaws.com
 contechacademy.com
 contentful.com
 contest.com
+context7.com
 convrgencegame.com
 cookiebot.com
 cookiechoices.org
@@ -5988,6 +6012,7 @@ cq99.us
 cqcorea.com
 crabporn.com
 crackle.com
+craftifyx.com
 craigslist.org
 crankplayer.com
 crashbandicoot.com
@@ -6061,6 +6086,7 @@ crustwebsites.net
 cruxpool.com
 crypto.com
 cryptocompare.com
+cryptoid.info
 cryptomus.com
 crypton.co.jp
 crysis.jp
@@ -6176,6 +6202,7 @@ cyber-bay.org
 cybercrimecon.com
 cyberghostvpn.com
 cybermondaybeats4sale.com
+cyberpunk.net
 cybersport.ru
 cybertrust.co.jp
 cybertrust.ne.jp
@@ -6283,6 +6310,7 @@ darwinsource.com
 darwinsource.org
 darwinsourcecode.com
 dasaob.online
+dash.ai
 dashlane.com
 dashly.app
 dashly.help
@@ -6408,6 +6436,7 @@ delcamp.net
 delcamtv.com
 delcamuniversity.com
 delcamusa.com
+delets.cash
 delets.online
 delicious.com.au
 delivery-club.ru
@@ -7039,6 +7068,7 @@ docs.com
 docs.new
 docs.rs
 docs.rw
+docsend.com
 doctor-videos.com
 documentforce.com
 documentingreality.com
@@ -7233,12 +7263,15 @@ dropbox.tech
 dropboxapi.com
 dropboxbusiness.com
 dropboxcaptcha.com
+dropboxexperiment.com
 dropboxforum.com
 dropboxforums.com
 dropboxinsiders.com
+dropboxlegal.com
 dropboxmail.com
 dropboxpartners.com
 dropboxstatic.com
+dropboxteam.com
 dropboxusercontent.com
 drpc.org
 drtuber.com
@@ -8558,6 +8591,7 @@ fanatical.com
 fanbox.cc
 fandango.com
 fandom.com
+fanfiction.net
 fanfictionero.com
 fanfox.net
 fangeqiang.com
@@ -9006,6 +9040,17 @@ fluidfxapp.com
 fluidpreview.com
 flutter.dev
 flutterapp.com
+fluxer.app
+fluxer.com
+fluxer.dev
+fluxer.gg
+fluxer.gift
+fluxer.media
+fluxer.tools
+fluxerapp.com
+fluxerstatic.com
+fluxerstatus.com
+fluxerusercontent.com
 fly.dev
 fly.io
 flyflv.com
@@ -9540,6 +9585,9 @@ full:apple-tv-plus-press.apple.com
 full:apple.com.akadns.net
 full:appleworldwidedeveloper.hb-api.omtrdc.net
 full:appleworldwidedeveloper.sc.omtrdc.net
+full:appsgenaiserver-pa.clients.google.com
+full:appsgenaiserver-pa.clients6.google.com
+full:appsgenaiserver-pa.googleapis.com
 full:as-dash-uk-live.akamaized.net
 full:as-hls-uk-live.akamaized.net
 full:asahishimbun.sc.omtrdc.net
@@ -9636,6 +9684,7 @@ full:d3c27h4odz752x.cloudfront.net
 full:d3lh5kkip965lj.cloudfront.net
 full:d3nwj80emtnjeo.cloudfront.net
 full:d3r7nsslvs6aaf.cloudfront.net
+full:d3stzm2eumvgb4.cloudfront.net
 full:d3ucl0eqgl80l5.cloudfront.net
 full:d3vd9lfkzbru3h.cloudfront.net
 full:d6d4ismr40iw.cloudfront.net
@@ -9645,6 +9694,8 @@ full:daily-cloudcode-pa.googleapis.com
 full:databank.worldbank.org
 full:database.asahi.com
 full:datarouter.apps.netherrealm.com
+full:dc.applicationinsights.azure.com
+full:dc.services.visualstudio.com
 full:dcb0z5ovq92mz.cloudfront.net
 full:ddacn6pr5v0tl.cloudfront.net
 full:ddpjwstwtpszg.cloudfront.net
@@ -9668,6 +9719,7 @@ full:docker-pinata-support.s3.amazonaws.com
 full:doy2mn9upadnk.cloudfront.net
 full:dqd0jw5gvbchn.cloudfront.net
 full:dqrpb9wgowsf5.cloudfront.net
+full:dropbox.zendesk.com
 full:ds-linear-abematv.akamaized.net
 full:ds-vod-abematv.akamaized.net
 full:ds0h3roq6wcgc.cloudfront.net
@@ -9715,6 +9767,7 @@ full:firebaseremoteconfig.googleapis.com
 full:firstsearch.oclc.org
 full:fontshop-prod-responsive-images.s3.amazonaws.com
 full:foxnewsplayer-a.akamaihd.net
+full:funko.my.site.com
 full:gamedownloads-rockstargames-com.akamaized.net
 full:gamer-cds.cdn.hinet.net
 full:gamer2-cds.cdn.hinet.net
@@ -9772,6 +9825,7 @@ full:linear-abematv.akamaized.net
 full:link.theplatform.com
 full:linkedin.sc.omtrdc.net
 full:live-patreon-marketing.pantheonsite.io
+full:live.applicationinsights.azure.com
 full:lm.licenses.adobe.com
 full:lmlicenses.wip4.adobe.com
 full:location.microsoft.com
@@ -9796,7 +9850,6 @@ full:muse.jhu.edu
 full:mwf-service.akamaized.net
 full:na1r.services.adobe.com
 full:nbbb1bb7.pmhcjk.com
-full:netflix.com.edgesuite.net
 full:nix-community.github.io
 full:notary-submissions-prod.s3-accelerate.amazonaws.com
 full:notary-submissions-prod.s3.us-west-2.amazonaws.com
@@ -9916,6 +9969,7 @@ full:rsshub.rssforever.com
 full:rsshub.umzzz.com
 full:rsshub.woodland.cafe
 full:rsshub2.asailor.org
+full:rt.services.visualstudio.com
 full:rtm.tnt-ea.com
 full:sa78gs.wpc.edgecastcdn.net
 full:scc-hamivideo.cdn.hinet.net
@@ -10000,7 +10054,6 @@ full:sentry.ppy.sh
 full:servd-anthropic-website.b-cdn.net
 full:sni1dcb6gl.wpc.edgecastcdn.net
 full:spectator.ppy.sh
-full:spotify.com.edgesuite.net
 full:spotify.map.fastly.net
 full:spotify.map.fastlylb.net
 full:ssl-lvlt.cdn.ea.com
@@ -10267,6 +10320,7 @@ fundpaypal.com
 fundraisingwithfacebook.com
 fundsupermart.com
 funimation.com
+funko.com
 funkyimg.com
 funnyfacebook.org
 funnyordie.com
@@ -10361,6 +10415,7 @@ g.page
 g0v.social
 g1.com.br
 g6hentai.com
+ga.jspm.io
 gab.com
 gabocorp.com
 gacebook.com
@@ -10383,6 +10438,7 @@ game-platform.net
 game-repack.site
 game735.com
 gameapps.hk
+gamebanana.com
 gamebase.com.tw
 gamebeforethegame.com
 gamebiz.jp
@@ -10634,6 +10690,7 @@ getpersonas.com
 getpocket.com
 getporn.tv
 getprintersupports.com
+getsafety.com
 getscorecash.com
 getsentry.com
 getsession.org
@@ -10802,6 +10859,8 @@ glasamerike.net
 glass8.eu
 gle
 gleline.com
+glitchprod.com
+glitchproductions.store
 glitchwave.com
 global-sci.org
 globaledu.org
@@ -11709,9 +11768,11 @@ heise360182.buzz
 helixstudios.net
 helloandroid.com
 helloavgirls.com
+hellofax.com
 hellokittybeats.com
 hellomoto.com
 helloqueer.com
+hellosign.com
 hellosmartbook.com
 hellporno.com
 hellven.net
@@ -14415,6 +14476,7 @@ kilmeadeandfriends.com
 kimchi.tv
 kimi.ai
 kimogirl.cc
+kimootoko.net
 kimosex.com
 kindgirls.com
 kindindianporn.com
@@ -14595,6 +14657,7 @@ kumapon.jp
 kumo.com
 kun66.xyz
 kundun1069.com
+kurs.expert
 kurtmunger.com
 kusugurizanmai.com
 kutjeporno.com
@@ -14801,6 +14864,7 @@ library.lol
 librarylovefest.com
 libraryofthumbs.com
 libredd.it
+librewolf.dev
 librewolf.net
 libsolutions.app
 libsolutions.domains
@@ -15285,6 +15349,7 @@ makeitrealcontest.com
 makemymood.com
 makerepeater.jp
 makesenseofdata.com
+makeship.com
 makeshop.jp
 makingstartshere.com
 maktoob.com
@@ -15750,6 +15815,7 @@ messytube.com
 met-nude.com
 meta.ai
 meta.com
+metaaiusercontent.com
 metaaivm.com
 metabora.io
 metabrainz.org
@@ -16256,6 +16322,7 @@ miniwidget.ca
 miniwindsor.com
 miniworkshop.com
 miniyaletown.ca
+minkch.com
 minnano-av.com
 minne.com
 minneapolisbmw.com
@@ -17647,6 +17714,7 @@ nixos.wiki
 nixpkgs.org
 niziero.info
 njactb.org
+njav.com
 njav.tv
 njavtv.com
 njpw.co.jp
@@ -17709,6 +17777,7 @@ notion.site
 notion.so
 notionusercontent.com
 nottinghampost.com
+nousresearch.com
 novelai.net
 noveltrove.com
 novids.com
@@ -18404,6 +18473,7 @@ ovpn.com
 ow.ly
 owl.li
 owltail.com
+ownaj.com
 owxd.xyz
 oxfordaasc.com
 oxfordartonline.com
@@ -19095,6 +19165,7 @@ playfab.com
 playfabapi.com
 playfamily.ru
 playforceone.com
+playgwent.com
 playhearthstone.com
 playmation.com
 playmeow.com
@@ -19144,6 +19215,7 @@ pmatehunter.com
 pmem.org
 pmem.us
 pnas.org
+po-kaki-to.com
 po2b.com
 pobeda.page
 pobl-content.com
@@ -19876,6 +19948,7 @@ pyrobot.org
 python.com.tw
 python.org
 pythonhosted.org
+pyup.io
 pzforever.skin
 pzforever01.homes
 pzhanfor.today
@@ -20025,6 +20098,7 @@ r18av.com
 r18lu-avi.shop
 r18lu.com
 r2.dev
+r2modman.com
 r34porn.net
 rabbitcounter.com
 rabbitscams.com
@@ -20871,6 +20945,7 @@ safeguarddefenders.com
 safeliner.tech
 safepal.com
 safervpn.com
+safetycli.com
 saffrontech.com
 sagabank.co.jp
 sage-observability.tech
@@ -21716,7 +21791,6 @@ sites.new
 situero.com
 six-degrees.io
 six9dy.pw
-sixte.st
 sjcollect.com
 sjhsp1.buzz
 skate2.com
@@ -22418,6 +22492,7 @@ steamgames.com
 steaminventoryhelper.com
 steamladder.com
 steamofporn.com
+steamos.cloud
 steampowered.com
 steamserver.net
 steamstatic.com
@@ -23008,29 +23083,6 @@ tesla.services
 teslaenergy.services
 teslamotors.com
 teslazta.net
-test-ipv6.alpinedc.ch
-test-ipv6.arauc.br
-test-ipv6.belwue.net
-test-ipv6.carnet.hr
-test-ipv6.cl
-test-ipv6.com
-test-ipv6.cs.umd.edu
-test-ipv6.csclub.uwaterloo.ca
-test-ipv6.cz
-test-ipv6.epic.network
-test-ipv6.fratec.net
-test-ipv6.freerangecloud.com
-test-ipv6.go6.si
-test-ipv6.hu
-test-ipv6.is
-test-ipv6.iu13.net
-test-ipv6.ke.liquidtelecom.net
-test-ipv6.noroutetohost.net
-test-ipv6.roedu.net
-test-ipv6.se
-test-ipv6.sin.vr.org
-test-ipv6.ttk.ru
-testipv6.de
 testonfox.com
 tetrika-school.ru
 tettediferro.it
@@ -23054,6 +23106,7 @@ tgirlcentral.com
 tgirlpostop.com
 tgp6.com
 tgstat.com
+tgtime.store
 tgtube.com
 tgutube.com
 thai-xxx.com
@@ -23225,6 +23278,7 @@ theweek.com
 theweek.in
 thewgo.org
 thewirechina.com
+thewitcher.com
 thewonderful101.com
 theync.com
 theyxxx.com
@@ -23237,6 +23291,7 @@ thinkdifferent.us
 thinkgeek.com
 thinkingtaiwan.com
 thinkofliving.com
+thinkorswim.com
 thinkquarterly.co.uk
 thinkquarterly.com
 thinkwithgoogle.com
@@ -23290,6 +23345,8 @@ thumbzilla.com
 thunderbird.net
 thunderbolttechnology.net
 thundermail.com
+thunderstore.io
+thunderstore.org
 thywords.com
 thz7.net
 thzu.cc
@@ -23458,6 +23515,7 @@ tmdb.org
 tmei-taoyuan.com
 tmi.me
 tmiaf.ru
+tmimgcdn.com
 tmpp.org
 tmsnrt.rs
 tnaflix.com
@@ -25830,6 +25888,7 @@ worldoftanks.com
 worldoftanks.eu
 worldofwarcraft.com
 worldofwarplanes.com
+worldofwarships.asia
 worldofwarships.com
 worldpornvideos.com
 worldscientific.com
@@ -26197,15 +26256,15 @@ xn--d1acpjx3f.xn--p1ai
 xn--d4ty0ojsqzfd.com
 xn--e1adjldbbpv.xn--90ais
 xn--e1aigb.xn--p1ai
-xn--fiqs8s1bxp3anr7a.hk
-xn--fiqs8s1bxp3anr7a.xn--j6w193g
-xn--fiqs8s1byzqyvl.hk
-xn--fiqs8s1byzqyvl.xn--j6w193g
+xn--fiq80y.hk
+xn--fiq80y.xn--j6w193g
+xn--fiq80y3xbiwr.hk
+xn--fiq80y3xbiwr.xn--j6w193g
+xn--fiq80y3xbiwrs0kiu9d.hk
+xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g
 xn--fiqs8sxootzz.xn--hxt814e
 xn--flw351e
 xn--flw351e.com
-xn--gdt08a.hk
-xn--gdt08a.xn--j6w193g
 xn--ggle-55da.com
 xn--gmq348bujlxrb.com
 xn--gmq92kd2rm1kx34a.com
@@ -26225,8 +26284,6 @@ xn--kcrv3utim32hx9f6qe.com
 xn--kput3imi374g.xn--hxt814e
 xn--mts47c3w9b1qr.net
 xn--mtswd61ejxq.com
-xn--mxtq18a.hk
-xn--mxtq18a.xn--j6w193g
 xn--ngstr-lra8j.com
 xn--noss43i.com
 xn--oiq.cc
@@ -26234,14 +26291,10 @@ xn--p8j9a0d9c9a.xn--q9jyb4c
 xn--pearsonenespaol-brb.com
 xn--pssu7ci2j23mp9ny48b.hk
 xn--pssu7ci2j23mp9ny48b.xn--j6w193g
-xn--pssu7cv61af1tcs59bnvd.hk
-xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
+xn--pssu7ci3q5oge0ai91q.xn--j6w193g
 xn--pssu7cv61af44b.hk
 xn--pssu7cv61af44b.xn--j6w193g
-xn--pssu7cv61ahw8aq79bztd.hk
-xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
-xn--pssu7cv61ahwcb1p2yk.hk
-xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
+xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g
 xn--q41am8x.com
 xn--qcka1pmc
 xn--qoq462m.com
@@ -26257,11 +26310,7 @@ xn--uis17aj9kmuf.com
 xn--uis44a.xn--j6w193g
 xn--urs05q.jp
 xn--vuqv2cf7wzyig79c.com
-xn--wcv22d.hk
-xn--wcv22d.xn--j6w193g
 xn--wcvs22d.xn--j6w193g
-xn--wcvs22d1m.hk
-xn--wcvs22d1m.xn--j6w193g
 xn--x-qeu1ji09tzlg.biz
 xn--x-qeu1ji09tzlg.net
 xn--xsq421m.com
@@ -26979,6 +27028,7 @@ yourwifemymeat.com
 yourxxxvideos.pro
 yousendit.com
 youskbe.com
+youtooz.com
 youtrack.cloud
 youtrannytube.com
 youtu.be
@@ -27374,6 +27424,7 @@ zorglist.com
 zorrovpn.com
 zotero.org
 zozotown.com
+zozovideo.com
 zpagov.net
 zpath.com
 zpn.im
