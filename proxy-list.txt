@@ -119,6 +119,7 @@
 18comic-god.xyz
 18comic.cc
 18comic.company
+18comic.ink
 18comic.org
 18comic.vip
 18commic.com
@@ -3368,6 +3369,7 @@ beget.app
 beget.cloud
 beget.com
 beget.de
+beget.email
 beget.hosting
 beget.pro
 beget.ru
@@ -3591,6 +3593,7 @@ bild.de
 bili2.cc
 bili888.com
 bili999.com
+bilibili.tv
 bilinovel.com
 biliplus.com
 biliworld.com
@@ -3660,6 +3663,7 @@ bingapistatistics.com
 bingoporno.com
 bingparachute.com
 bingsandbox.com
+bingstatic.com
 bingvisualsearch.com
 bingworld.com
 bingx.com
@@ -3945,6 +3949,7 @@ bmi.ir
 bmia.org
 bmj.com
 bml.info
+bmonkeys.net
 bmw
 bmw-abudhabi.com
 bmw-adventskalender.com
@@ -4369,6 +4374,7 @@ boj.or.jp
 bokep.net
 bokepseks.org
 bokepvidz.com
+boldgrid.com
 bolehvpn.net
 bollywoodlife.com
 boltdns.net
@@ -4615,6 +4621,7 @@ bsappapi.com
 bscdnweb.com
 bsi.ir
 bsky.app
+bsky.chat
 bsky.network
 bsky.social
 bspb.ru
@@ -5702,6 +5709,7 @@ cloudn.me
 cloudproxy.app
 cloudrobotics.com
 cloudvolumes.com
+cloudwp.dev
 cloudyzgirl.com
 cloupia.com
 cloupia.net
@@ -10833,6 +10841,7 @@ githubapp.com
 githubassets.com
 githubcopilot.com
 githubhackathon.com
+githubhelp.com
 githubnext.com
 githubpreview.dev
 githubstatus.com
@@ -13794,6 +13803,7 @@ ius.io
 iutunes.com
 ivacy.com
 ivi.ru
+ivi.tv
 ivicdn.tv
 ivintageporn.com
 ivonblog.com
@@ -16758,6 +16768,7 @@ msftconnecttest.com
 msfteducation.ca
 msftncsi.com
 msftnet.org
+msftstatic.com
 msgamesresearch.com
 msgamestudios.com
 msha.gov
@@ -20397,7 +20408,7 @@ regexp:(^|\.)69bag[0-1][1-9]?\.com$
 regexp:(^|\.)783([a-z][a-z]?)?\.tv$
 regexp:(^|\.)7mm0([0-1][0-9]?)?\.com$
 regexp:(^|\.)8dgo[1-57-9]\.com$
-regexp:(^|\.)91cg([1-9]|[0-9][1-9])?.com$
+regexp:(^|\.)91cg([1-9]|[0-9][1-9])?\.com$
 regexp:(^|\.)91p[0-9][0-9]?\.com$
 regexp:(^|\.)91porn[0-9]?\.store$
 regexp:(^|\.)91porn[0-9]{3}\.me$
@@ -20456,6 +20467,7 @@ regexp:(^|\.)hhmen[1-3]\.xyz$
 regexp:(^|\.)hkfg[1-7]\.xyz$
 regexp:(^|\.)hs[1-9]{2}\.vip$
 regexp:(^|\.)jav777\.(cc|tv|work)$
+regexp:(^|\.)javdb\d+\.com$
 regexp:(^|\.)jb[1-9][0-9]\.lol$
 regexp:(^|\.)jbk0([0-1][0-9]?)?\.com$
 regexp:(^|\.)jdyy[1-9]?\.me$
@@ -20535,7 +20547,6 @@ regexp:^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 regexp:^epicgames-download\d\.akamaized\.net$
 regexp:^ewcdn[0-9]+\.nowe\.com$
 regexp:^hses[1-7]?\.akamaized\.net$
-regexp:javdb\d+\.com$
 regiongold.com
 registerhulu.com
 registeridm.com
@@ -22493,6 +22504,7 @@ steaminventoryhelper.com
 steamladder.com
 steamofporn.com
 steamos.cloud
+steampeek.hu
 steampowered.com
 steamserver.net
 steamstatic.com
@@ -23435,9 +23447,12 @@ tiktokeu-cdn.com
 tiktokglobalshopv.com
 tiktokminis.us
 tiktokrow-cdn.com
+tiktokshop.com
+tiktokstaticb.com
 tiktokv.com
 tiktokv.eu
 tiktokv.us
+tiktokvapp.com
 tiktokw.eu
 tiktokw.us
 tilda.cc
@@ -23620,6 +23635,7 @@ toroporno.com
 torproject.org
 torrentgalaxy.to
 torrentkitty.tv
+torrentleech.org
 torrentprivacy.com
 torrentproject.se
 torrenty.org
@@ -25033,6 +25049,7 @@ vodafone.com.tr
 vodafone.de
 vodafone.it
 vodafone.nl
+vodafoneziggo.nl
 voicettank.org
 vokevr.com
 vol.moe
@@ -25491,7 +25508,9 @@ webex.com.mx
 webex.de
 webex.es
 webex.fr
+webflow-ext.com
 webflow.com
+webflow.io
 webgata.net
 webgirlsonline.net
 webhosting.com
@@ -25514,6 +25533,7 @@ webpkgcache.com
 webrtc.org
 websdr.org
 webshare.io
+website-files.com
 website.new
 webtoons.com
 webtoonscorp.com
@@ -27198,6 +27218,7 @@ youtubego.in
 youtubekids.com
 youtubemobilesupport.com
 youversion.com
+youversionapi.com
 youwin.com
 youwuss.com
 youx.xxx
@@ -27354,6 +27375,7 @@ zhuichaguoji.org
 zhuzhushipin-app.com
 zi.media
 zibacity.com
+ziggo.nl
 ziglang.org
 zigzag.kr
 zillionk.com
