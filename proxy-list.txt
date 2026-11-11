@@ -9809,6 +9809,7 @@ full:holoxx.f5.si
 full:homebrew.bintray.com
 full:hpefonts.s3.amazonaws.com
 full:hpstore.corpmerchandise.com
+full:http-intake.logs.us5.datadoghq.com
 full:hub.slarker.me
 full:hulu.playback.edge.bamgrid.com
 full:i.jeded.com
@@ -9894,6 +9895,7 @@ full:ntppool2.time.nl
 full:nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
 full:nvidia.custhelp.com
 full:nvidia.tt.omtrdc.net
+full:o1158394.ingest.us.sentry.io
 full:ocsp.microsoft.com
 full:officecdn-microsoft-com.akamaized.net
 full:onekey.zendesk.com
@@ -9922,6 +9924,7 @@ full:practivate.adobe.com
 full:prd-priconne-redive.akamaized.net
 full:preprod-publicca.googleapis.com
 full:prodforza.blob.core.windows.net
+full:production-copilot-host-westus.webpubsub.azure.com
 full:production-openaicom-storage.azureedge.net
 full:productionresultssa0.blob.core.windows.net
 full:productionresultssa1.blob.core.windows.net
@@ -11381,6 +11384,8 @@ gr-assets.com
 grabhentai.com
 grabpussy.com
 gradeuptube.com
+grafana.com
+grafana.net
 grafolio.com
 graias.com
 graiasmovies.com
@@ -11434,6 +11439,7 @@ greginhollywood.com
 gridaware.app
 grindr.com
 grok.com
+grokbot.com
 grokipedia.com
 grooby.com
 groq.com
@@ -14915,6 +14921,9 @@ lilaoshibushinilaoshi.com
 lilhumpers.com
 liliav.com
 lilith-soft.com
+limbuscompany.global
+limbuscompanyapi.com
+limbuscompanycdn.org
 limedia.tw
 limelight.com
 limer.tw
@@ -19815,6 +19824,7 @@ projectbaseline.com
 projectcircuitbreaker.com
 projecteuclid.org
 projectjav.com
+projectmoon.studio
 projectmurphy.net
 projectpoint.com
 projectpoint.net
@@ -20046,6 +20056,7 @@ quantil.com
 quatrowireless.com
 quatrum.com.br
 quay.io
+questionablequesting.com
 questvisual.com
 quicinc.com
 quickbook.com.br
@@ -21820,6 +21831,7 @@ skills.sh
 skillshare.com
 skimtube.com
 skinstrip.net
+skinswap.com
 skokka.com
 sksarab.top
 skunkgirl.cc
@@ -22183,6 +22195,7 @@ soyinyj.top
 soyjak.party
 soyjak.st
 sp.cool
+spacebattles.com
 spaceexplored.com
 spaceforce.mil
 spacely.com.au
@@ -24352,6 +24365,7 @@ v.ps
 v.recipes
 v2.help
 v2.hysteria.network
+v2ex.co
 v2ex.com
 v2fly.org
 v2ph.com
